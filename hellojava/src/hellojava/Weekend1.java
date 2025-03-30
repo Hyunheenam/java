@@ -14,6 +14,10 @@ public class Weekend1 {
 
 		while (run) {
 			
+			System.out.println("=============================");
+			System.out.println("       [숫자맞추기게임 시작]     ");
+			System.out.println("=============================");
+			
 			
 
 			int answer = (int) (Math.random() * 100) + 1;
